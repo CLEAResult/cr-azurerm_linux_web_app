@@ -1,5 +1,4 @@
-# cr-azurerm_app_service
-
+# azurerm_linux_web_app
 ** WARNING! ** There may be breaking changes from time to time
 
 Creates an azure app service web app on an existing app service plan.
